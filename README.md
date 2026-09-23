@@ -7,6 +7,7 @@ The concept of reversible selective compression for AI chat history: the full hi
 ## Статьи / Articles
 
 - [Русская версия — оригинал](articles/ARTICLE_RU.md)
+- [Русская версия v3 — литературная редакция концепции](articles/ARTICLE_RU_V3.md)
 - [English version — translation](articles/ARTICLE_EN.md)
 
 Русский текст является исходным. Английская версия — только перевод; при смысловых расхождениях приоритет имеет русская версия.
@@ -15,7 +16,7 @@ The Russian text is the original. The English version is a translation only; if 
 
 ## Статус / Status
 
-Это концепция без программного прототипа, бенчмарков и экспериментального подтверждения эффективности.
+Новая архитектура находится на стадии технического проектирования. Бенчмарки и экспериментальное подтверждение её эффективности пока отсутствуют; опубликованный `ARTICLE_RU.md` сохранён как предыдущая версия.
 
 This is a concept without a software prototype, benchmarks, or experimental validation of effectiveness.
 
