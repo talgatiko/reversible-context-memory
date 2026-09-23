@@ -6,9 +6,9 @@ The concept of reversible selective compression for AI chat history: the full hi
 
 ## Статьи / Articles
 
-- [Русская версия — оригинал](articles/ARTICLE_RU.md)
-- [Русская версия v3 — литературная редакция концепции](articles/ARTICLE_RU_V3.md)
-- [English version — translation](articles/ARTICLE_EN.md)
+- [Русская версия v3 — текущий оригинал](articles/ARTICLE_RU_V3.md)
+- [English version — translation of Russian v3](articles/ARTICLE_EN.md)
+- [Русская версия — предыдущая редакция](articles/ARTICLE_RU.md)
 
 Русский текст является исходным. Английская версия — только перевод; при смысловых расхождениях приоритет имеет русская версия.
 
