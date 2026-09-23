@@ -18,7 +18,7 @@ The Russian text is the original. The English version is a translation only; if 
 
 Новая архитектура находится на стадии технического проектирования. Бенчмарки и экспериментальное подтверждение её эффективности пока отсутствуют; опубликованный `ARTICLE_RU.md` сохранён как предыдущая версия.
 
-This is a concept without a software prototype, benchmarks, or experimental validation of effectiveness.
+The new architecture is in technical design. Benchmarks and experimental validation of its effectiveness are not yet available; the published `ARTICLE_RU.md` remains the previous version.
 
 Обсуждение, замечания и результаты независимых экспериментов: [GitHub Issues](https://github.com/talgatiko/reversible-context-memory/issues).
 
